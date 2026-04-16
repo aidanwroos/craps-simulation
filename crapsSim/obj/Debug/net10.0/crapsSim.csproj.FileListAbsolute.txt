@@ -1,0 +1,15 @@
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\bin\Debug\net10.0\crapsSim.exe
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\bin\Debug\net10.0\crapsSim.deps.json
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\bin\Debug\net10.0\crapsSim.runtimeconfig.json
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\bin\Debug\net10.0\crapsSim.dll
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\bin\Debug\net10.0\crapsSim.pdb
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.AssemblyInfo.cs
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.sourcelink.json
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.dll
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\refint\crapsSim.dll
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.pdb
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\crapsSim.genruntimeconfig.cache
+C:\Users\aidan\source\repos\craps-simulation\crapsSim\obj\Debug\net10.0\ref\crapsSim.dll
